@@ -1,0 +1,8 @@
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\bin\Debug\otp sc.exe
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\bin\Debug\otp sc.pdb
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\obj\x86\Debug\otp sc.csproj.GenerateResource.Cache
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\obj\x86\Debug\otp sc.exe
+C:\Users\Hari Mann\documents\visual studio 2010\Projects\otp sc\otp sc\obj\x86\Debug\otp sc.pdb
+C:\Users\Hari Mann\Documents\Visual Studio 2010\Projects\otp sc\otp sc\obj\x86\Debug\otp sc.csprojResolveAssemblyReference.cache
